@@ -1,2 +1,2 @@
 # Practica-nueva
-#revisiones vergas
+Ese proyecto se genero para las versiones y practicas 
